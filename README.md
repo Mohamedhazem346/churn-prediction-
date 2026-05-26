@@ -1,4 +1,5 @@
 📉 Customer Churn Prediction 
+
 A machine learning project that predicts whether a customer will churn using a Gaussian Naive Bayes classifier. Built with Python and scikit-learn.
 
 📌 Overview 
